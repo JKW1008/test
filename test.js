@@ -13,3 +13,6 @@ const Login = () => {
 function logout() {
   return "로그아웃";
 }
+function logout2() {
+  return "로그아웃2";
+}
