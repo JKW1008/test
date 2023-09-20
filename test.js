@@ -5,3 +5,7 @@ function newFeature(a, b) {
   return a + b;
 }
 console.log(newFeature(12, 100));
+
+const Login = () => {
+  return "로그인 성공";
+};
